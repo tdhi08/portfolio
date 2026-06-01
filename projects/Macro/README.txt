@@ -1,0 +1,1 @@
+This script isn't anything special, but it was a small starting point and helped me develop my interest in programming. Can be useful in many situations and for bigger programs. 
