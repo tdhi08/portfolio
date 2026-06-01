@@ -1,0 +1,1 @@
+Run both scripts simultaneously to run program 
